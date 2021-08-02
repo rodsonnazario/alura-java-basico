@@ -1,4 +1,4 @@
-#Este capítulo apresentou:
+# Este capítulo apresentou:
 
 - variáveis e tipos primitivos do Java.
 - type casting (passar um valor de um tipo para uma vaiável de outro tipo). 
